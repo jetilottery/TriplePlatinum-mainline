@@ -1,0 +1,30 @@
+{"frames": {
+
+"wheelMiddleCircle":
+{
+	"frame": {"x":645,"y":1,"w":639,"h":641},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":639,"h":641},
+	"sourceSize": {"w":639,"h":641},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheelMiddleCircleRim":
+{
+	"frame": {"x":1,"y":1,"w":642,"h":639},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":642,"h":639},
+	"sourceSize": {"w":643,"h":642},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1287,"h":641},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:13b280a23b0d8bc63365ee9b00178aee:3381445a50e0dc9e182e707f3dc4b999:5f209c681de9b838c81c16cabec82336$"
+}
+}

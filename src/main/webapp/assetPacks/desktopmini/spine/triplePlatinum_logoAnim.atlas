@@ -1,0 +1,879 @@
+
+triplePlatinum_logoAnim.jpg
+size: 2007,2007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/lightPing
+  rotate: true
+  xy: 406, 1565
+  size: 66, 63
+  orig: 71, 65
+  offset: 0, 2
+  index: -1
+JPG/lightSweep_logo_00
+  rotate: false
+  xy: 2, 1805
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_01
+  rotate: false
+  xy: 2, 1805
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_02
+  rotate: false
+  xy: 2, 1805
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_03
+  rotate: false
+  xy: 2, 1805
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_04
+  rotate: true
+  xy: 593, 1416
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_05
+  rotate: true
+  xy: 2, 1214
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_06
+  rotate: true
+  xy: 204, 1214
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_07
+  rotate: false
+  xy: 406, 1214
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_08
+  rotate: false
+  xy: 795, 1805
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_09
+  rotate: false
+  xy: 795, 1603
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_10
+  rotate: true
+  xy: 997, 1012
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_11
+  rotate: true
+  xy: 2, 623
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_12
+  rotate: true
+  xy: 204, 623
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_13
+  rotate: true
+  xy: 406, 623
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_14
+  rotate: true
+  xy: 608, 623
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_15
+  rotate: false
+  xy: 810, 810
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_16
+  rotate: false
+  xy: 1199, 1401
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_17
+  rotate: false
+  xy: 1386, 1805
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_18
+  rotate: false
+  xy: 1386, 1603
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_19
+  rotate: false
+  xy: 1199, 1199
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_20
+  rotate: true
+  xy: 1401, 608
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_21
+  rotate: true
+  xy: 810, 219
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_22
+  rotate: true
+  xy: 1012, 219
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_23
+  rotate: false
+  xy: 1214, 406
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_24
+  rotate: true
+  xy: 1603, 608
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_25
+  rotate: false
+  xy: 1214, 204
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_26
+  rotate: false
+  xy: 2, 421
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_27
+  rotate: true
+  xy: 593, 32
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_28
+  rotate: false
+  xy: 2, 219
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_29
+  rotate: false
+  xy: 2, 17
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_30
+  rotate: false
+  xy: 795, 2
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_31
+  rotate: false
+  xy: 1386, 2
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_32
+  rotate: true
+  xy: 1805, 1012
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_33
+  rotate: true
+  xy: 1805, 421
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/sparkle
+  rotate: true
+  xy: 406, 1633
+  size: 170, 86
+  orig: 182, 120
+  offset: 4, 18
+  index: -1
+
+triplePlatinum_logoAnim2.jpg
+size: 1977,1618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/lightSweep_logo_34
+  rotate: false
+  xy: 2, 1416
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_35
+  rotate: false
+  xy: 2, 1214
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_36
+  rotate: false
+  xy: 593, 1416
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_37
+  rotate: false
+  xy: 2, 1012
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_38
+  rotate: false
+  xy: 593, 1214
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_39
+  rotate: false
+  xy: 1184, 1416
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_40
+  rotate: false
+  xy: 2, 810
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_41
+  rotate: false
+  xy: 593, 1012
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_42
+  rotate: false
+  xy: 1184, 1214
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_43
+  rotate: false
+  xy: 2, 608
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_44
+  rotate: false
+  xy: 593, 810
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_45
+  rotate: false
+  xy: 1184, 1012
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_46
+  rotate: true
+  xy: 1775, 1027
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_47
+  rotate: false
+  xy: 2, 406
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_48
+  rotate: false
+  xy: 593, 608
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_49
+  rotate: false
+  xy: 1184, 810
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_50
+  rotate: false
+  xy: 2, 204
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_51
+  rotate: false
+  xy: 593, 406
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_52
+  rotate: false
+  xy: 1184, 608
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_53
+  rotate: false
+  xy: 2, 2
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_54
+  rotate: false
+  xy: 593, 204
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_55
+  rotate: false
+  xy: 1184, 406
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_56
+  rotate: true
+  xy: 1775, 436
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_57
+  rotate: false
+  xy: 593, 2
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_58
+  rotate: false
+  xy: 1184, 204
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+JPG/lightSweep_logo_59
+  rotate: false
+  xy: 1184, 2
+  size: 589, 200
+  orig: 589, 200
+  offset: 0, 0
+  index: -1
+
+triplePlatinum_logoAnim.png
+size: 2033,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/lightSweep_logo_00
+  rotate: false
+  xy: 641, 142
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/lightSweep_logo_01
+  rotate: false
+  xy: 641, 142
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/lightSweep_logo_02
+  rotate: false
+  xy: 641, 142
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/lightSweep_logo_03
+  rotate: false
+  xy: 641, 142
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/lightSweep_logo_04
+  rotate: true
+  xy: 1726, 365
+  size: 4, 5
+  orig: 589, 200
+  offset: 2, 177
+  index: -1
+PNG/lightSweep_logo_05
+  rotate: false
+  xy: 1554, 35
+  size: 35, 51
+  orig: 589, 200
+  offset: 0, 149
+  index: -1
+PNG/lightSweep_logo_06
+  rotate: true
+  xy: 1263, 15
+  size: 52, 55
+  orig: 589, 200
+  offset: 0, 145
+  index: -1
+PNG/lightSweep_logo_07
+  rotate: false
+  xy: 1485, 34
+  size: 67, 52
+  orig: 589, 200
+  offset: 0, 148
+  index: -1
+PNG/lightSweep_logo_08
+  rotate: false
+  xy: 1837, 10
+  size: 82, 43
+  orig: 589, 200
+  offset: 0, 157
+  index: -1
+PNG/lightSweep_logo_09
+  rotate: true
+  xy: 1857, 170
+  size: 80, 66
+  orig: 589, 200
+  offset: 16, 134
+  index: -1
+PNG/lightSweep_logo_10
+  rotate: false
+  xy: 1837, 55
+  size: 86, 91
+  orig: 589, 200
+  offset: 25, 109
+  index: -1
+PNG/lightSweep_logo_11
+  rotate: true
+  xy: 1598, 3
+  size: 99, 114
+  orig: 589, 200
+  offset: 23, 86
+  index: -1
+PNG/lightSweep_logo_12
+  rotate: true
+  xy: 1726, 148
+  size: 102, 129
+  orig: 589, 200
+  offset: 22, 71
+  index: -1
+PNG/lightSweep_logo_13
+  rotate: false
+  xy: 1615, 229
+  size: 109, 139
+  orig: 589, 200
+  offset: 26, 61
+  index: -1
+PNG/lightSweep_logo_14
+  rotate: false
+  xy: 1485, 88
+  size: 111, 138
+  orig: 589, 200
+  offset: 27, 62
+  index: -1
+PNG/lightSweep_logo_15
+  rotate: false
+  xy: 1925, 219
+  size: 106, 122
+  orig: 589, 200
+  offset: 43, 78
+  index: -1
+PNG/lightSweep_logo_16
+  rotate: true
+  xy: 1717, 30
+  size: 116, 118
+  orig: 589, 200
+  offset: 51, 82
+  index: -1
+PNG/lightSweep_logo_17
+  rotate: false
+  xy: 128, 2
+  size: 126, 108
+  orig: 589, 200
+  offset: 74, 92
+  index: -1
+PNG/lightSweep_logo_18
+  rotate: false
+  xy: 1263, 69
+  size: 105, 127
+  orig: 589, 200
+  offset: 98, 73
+  index: -1
+PNG/lightSweep_logo_19
+  rotate: false
+  xy: 1138, 195
+  size: 105, 144
+  orig: 589, 200
+  offset: 101, 56
+  index: -1
+PNG/lightSweep_logo_20
+  rotate: false
+  xy: 1245, 198
+  size: 126, 142
+  orig: 589, 200
+  offset: 101, 58
+  index: -1
+PNG/lightSweep_logo_21
+  rotate: true
+  xy: 1475, 370
+  size: 119, 154
+  orig: 589, 200
+  offset: 116, 46
+  index: -1
+PNG/lightSweep_logo_22
+  rotate: false
+  xy: 128, 112
+  size: 121, 177
+  orig: 589, 200
+  offset: 119, 23
+  index: -1
+PNG/lightSweep_logo_23
+  rotate: false
+  xy: 2, 94
+  size: 124, 195
+  orig: 589, 200
+  offset: 119, 5
+  index: -1
+PNG/lightSweep_logo_24
+  rotate: false
+  xy: 589, 296
+  size: 126, 193
+  orig: 589, 200
+  offset: 121, 7
+  index: -1
+PNG/lightSweep_logo_25
+  rotate: false
+  xy: 717, 315
+  size: 110, 174
+  orig: 589, 200
+  offset: 130, 0
+  index: -1
+PNG/lightSweep_logo_26
+  rotate: true
+  xy: 1631, 371
+  size: 118, 152
+  orig: 589, 200
+  offset: 137, 0
+  index: -1
+PNG/lightSweep_logo_27
+  rotate: false
+  xy: 256, 3
+  size: 127, 135
+  orig: 589, 200
+  offset: 147, 11
+  index: -1
+PNG/lightSweep_logo_28
+  rotate: false
+  xy: 385, 6
+  size: 128, 133
+  orig: 589, 200
+  offset: 159, 13
+  index: -1
+PNG/lightSweep_logo_29
+  rotate: true
+  xy: 1726, 252
+  size: 111, 135
+  orig: 589, 200
+  offset: 187, 11
+  index: -1
+PNG/lightSweep_logo_30
+  rotate: false
+  xy: 1017, 46
+  size: 123, 144
+  orig: 589, 200
+  offset: 191, 4
+  index: -1
+PNG/lightSweep_logo_31
+  rotate: false
+  xy: 891, 43
+  size: 124, 146
+  orig: 589, 200
+  offset: 202, 2
+  index: -1
+PNG/lightSweep_logo_32
+  rotate: false
+  xy: 1598, 104
+  size: 117, 122
+  orig: 589, 200
+  offset: 222, 24
+  index: -1
+PNG/lightSweep_logo_33
+  rotate: false
+  xy: 1017, 192
+  size: 119, 146
+  orig: 589, 200
+  offset: 233, 0
+  index: -1
+PNG/lightSweep_logo_34
+  rotate: false
+  xy: 514, 141
+  size: 125, 148
+  orig: 589, 200
+  offset: 241, 0
+  index: -1
+PNG/lightSweep_logo_35
+  rotate: true
+  xy: 1785, 365
+  size: 124, 149
+  orig: 589, 200
+  offset: 254, 0
+  index: -1
+PNG/lightSweep_logo_36
+  rotate: false
+  xy: 770, 14
+  size: 119, 148
+  orig: 589, 200
+  offset: 269, 0
+  index: -1
+PNG/lightSweep_logo_37
+  rotate: false
+  xy: 251, 140
+  size: 131, 149
+  orig: 589, 200
+  offset: 273, 0
+  index: -1
+PNG/lightSweep_logo_38
+  rotate: false
+  xy: 960, 340
+  size: 126, 149
+  orig: 589, 200
+  offset: 290, 0
+  index: -1
+PNG/lightSweep_logo_39
+  rotate: false
+  xy: 384, 141
+  size: 128, 148
+  orig: 589, 200
+  offset: 303, 0
+  index: -1
+PNG/lightSweep_logo_40
+  rotate: false
+  xy: 644, 4
+  size: 124, 139
+  orig: 589, 200
+  offset: 319, 9
+  index: -1
+PNG/lightSweep_logo_41
+  rotate: false
+  xy: 1217, 342
+  size: 127, 147
+  orig: 589, 200
+  offset: 326, 0
+  index: -1
+PNG/lightSweep_logo_42
+  rotate: false
+  xy: 641, 145
+  size: 122, 149
+  orig: 589, 200
+  offset: 346, 0
+  index: -1
+PNG/lightSweep_logo_43
+  rotate: false
+  xy: 829, 340
+  size: 129, 149
+  orig: 589, 200
+  offset: 352, 0
+  index: -1
+PNG/lightSweep_logo_44
+  rotate: false
+  xy: 1346, 342
+  size: 127, 147
+  orig: 589, 200
+  offset: 367, 0
+  index: -1
+PNG/lightSweep_logo_45
+  rotate: false
+  xy: 1088, 341
+  size: 127, 148
+  orig: 589, 200
+  offset: 381, 0
+  index: -1
+PNG/lightSweep_logo_46
+  rotate: false
+  xy: 891, 191
+  size: 124, 147
+  orig: 589, 200
+  offset: 396, 0
+  index: -1
+PNG/lightSweep_logo_47
+  rotate: false
+  xy: 765, 164
+  size: 124, 149
+  orig: 589, 200
+  offset: 409, 0
+  index: -1
+PNG/lightSweep_logo_48
+  rotate: false
+  xy: 1485, 228
+  size: 128, 140
+  orig: 589, 200
+  offset: 418, 9
+  index: -1
+PNG/lightSweep_logo_49
+  rotate: false
+  xy: 515, 6
+  size: 127, 133
+  orig: 589, 200
+  offset: 430, 14
+  index: -1
+PNG/lightSweep_logo_50
+  rotate: false
+  xy: 1373, 197
+  size: 110, 143
+  orig: 589, 200
+  offset: 462, 5
+  index: -1
+PNG/lightSweep_logo_51
+  rotate: false
+  xy: 1142, 49
+  size: 119, 144
+  orig: 589, 200
+  offset: 466, 4
+  index: -1
+PNG/lightSweep_logo_52
+  rotate: false
+  xy: 1370, 67
+  size: 113, 128
+  orig: 589, 200
+  offset: 476, 19
+  index: -1
+PNG/lightSweep_logo_53
+  rotate: false
+  xy: 1925, 88
+  size: 102, 129
+  orig: 589, 200
+  offset: 487, 20
+  index: -1
+PNG/lightSweep_logo_54
+  rotate: false
+  xy: 1936, 343
+  size: 88, 146
+  orig: 589, 200
+  offset: 501, 3
+  index: -1
+PNG/lightSweep_logo_55
+  rotate: true
+  xy: 2, 19
+  size: 73, 115
+  orig: 589, 200
+  offset: 516, 25
+  index: -1
+PNG/lightSweep_logo_56
+  rotate: false
+  xy: 1863, 252
+  size: 60, 111
+  orig: 589, 200
+  offset: 529, 6
+  index: -1
+PNG/lightSweep_logo_57
+  rotate: true
+  xy: 1925, 36
+  size: 50, 98
+  orig: 589, 200
+  offset: 539, 0
+  index: -1
+PNG/lightSweep_logo_58
+  rotate: true
+  xy: 891, 3
+  size: 38, 79
+  orig: 589, 200
+  offset: 551, 0
+  index: -1
+PNG/lightSweep_logo_59
+  rotate: true
+  xy: 1714, 2
+  size: 26, 49
+  orig: 589, 200
+  offset: 560, 3
+  index: -1
+PNG/logo2
+  rotate: false
+  xy: 2, 291
+  size: 585, 198
+  orig: 589, 200
+  offset: 2, 2
+  index: -1

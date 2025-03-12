@@ -1,0 +1,1132 @@
+
+triplePlatinum_transition.png
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/cover
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+triplePlatinum_transition.jpeg
+size: 2024,1855
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/partSeq/transitionParticles_00
+  rotate: false
+  xy: 2, 1852
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/partSeq/transitionParticles_50
+  rotate: false
+  xy: 2, 1852
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/partSeq/transitionParticles_01
+  rotate: false
+  xy: 5, 1782
+  size: 95, 71
+  orig: 992, 810
+  offset: 513, 739
+  index: -1
+PNG/partSeq/transitionParticles_02
+  rotate: false
+  xy: 102, 1764
+  size: 91, 89
+  orig: 992, 810
+  offset: 518, 721
+  index: -1
+PNG/partSeq/transitionParticles_03
+  rotate: false
+  xy: 195, 1748
+  size: 171, 105
+  orig: 992, 810
+  offset: 464, 705
+  index: -1
+PNG/partSeq/transitionParticles_04
+  rotate: false
+  xy: 368, 1718
+  size: 266, 135
+  orig: 992, 810
+  offset: 380, 675
+  index: -1
+PNG/partSeq/transitionParticles_05
+  rotate: false
+  xy: 636, 1668
+  size: 271, 185
+  orig: 992, 810
+  offset: 386, 625
+  index: -1
+PNG/partSeq/transitionParticles_06
+  rotate: false
+  xy: 1222, 1619
+  size: 286, 234
+  orig: 992, 810
+  offset: 383, 576
+  index: -1
+PNG/partSeq/transitionParticles_07
+  rotate: false
+  xy: 909, 1625
+  size: 311, 228
+  orig: 992, 810
+  offset: 375, 582
+  index: -1
+PNG/partSeq/transitionParticles_08
+  rotate: false
+  xy: 1510, 1588
+  size: 340, 265
+  orig: 992, 810
+  offset: 365, 545
+  index: -1
+PNG/partSeq/transitionParticles_09
+  rotate: false
+  xy: 2, 1468
+  size: 364, 278
+  orig: 992, 810
+  offset: 354, 532
+  index: -1
+PNG/partSeq/transitionParticles_10
+  rotate: false
+  xy: 769, 1258
+  size: 383, 365
+  orig: 992, 810
+  offset: 345, 445
+  index: -1
+PNG/partSeq/transitionParticles_11
+  rotate: false
+  xy: 368, 1305
+  size: 399, 361
+  orig: 992, 810
+  offset: 336, 449
+  index: -1
+PNG/partSeq/transitionParticles_12
+  rotate: true
+  xy: 1154, 1173
+  size: 413, 440
+  orig: 992, 810
+  offset: 329, 370
+  index: -1
+PNG/partSeq/transitionParticles_13
+  rotate: false
+  xy: 1596, 1017
+  size: 426, 569
+  orig: 992, 810
+  offset: 325, 241
+  index: -1
+PNG/partSeq/transitionParticles_14
+  rotate: true
+  xy: 2, 861
+  size: 442, 574
+  orig: 992, 810
+  offset: 318, 236
+  index: -1
+PNG/partSeq/transitionParticles_15
+  rotate: true
+  xy: 578, 706
+  size: 465, 620
+  orig: 992, 810
+  offset: 308, 190
+  index: -1
+PNG/partSeq/transitionParticles_16
+  rotate: true
+  xy: 1200, 531
+  size: 484, 624
+  orig: 992, 810
+  offset: 300, 186
+  index: -1
+PNG/partSeq/transitionParticles_17
+  rotate: true
+  xy: 2, 201
+  size: 503, 661
+  orig: 992, 810
+  offset: 292, 149
+  index: -1
+PNG/partSeq/transitionParticles_18
+  rotate: false
+  xy: 665, 27
+  size: 520, 677
+  orig: 992, 810
+  offset: 285, 133
+  index: -1
+PNG/partSeq/transitionParticles_21
+  rotate: true
+  xy: 1187, 2
+  size: 527, 749
+  orig: 992, 810
+  offset: 276, 61
+  index: -1
+
+triplePlatinum_transition2.jpeg
+size: 1545,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/partSeq/transitionParticles_22
+  rotate: true
+  xy: 770, 29
+  size: 531, 757
+  orig: 992, 810
+  offset: 275, 53
+  index: -1
+PNG/partSeq/transitionParticles_23
+  rotate: true
+  xy: 2, 2
+  size: 548, 765
+  orig: 992, 810
+  offset: 266, 45
+  index: -1
+PNG/partSeq/transitionParticles_33
+  rotate: true
+  xy: 770, 562
+  size: 730, 761
+  orig: 992, 810
+  offset: 175, 0
+  index: -1
+PNG/partSeq/transitionParticles_34
+  rotate: true
+  xy: 789, 1294
+  size: 748, 754
+  orig: 992, 810
+  offset: 166, 0
+  index: -1
+PNG/partSeq/transitionParticles_35
+  rotate: false
+  xy: 2, 552
+  size: 766, 750
+  orig: 992, 810
+  offset: 157, 0
+  index: -1
+PNG/partSeq/transitionParticles_36
+  rotate: false
+  xy: 2, 1304
+  size: 785, 738
+  orig: 992, 810
+  offset: 147, 0
+  index: -1
+
+triplePlatinum_transition3.jpeg
+size: 2037,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/partSeq/transitionParticles_20
+  rotate: false
+  xy: 1451, 854
+  size: 537, 692
+  orig: 992, 810
+  offset: 278, 118
+  index: -1
+PNG/partSeq/transitionParticles_27
+  rotate: false
+  xy: 747, 23
+  size: 622, 810
+  orig: 992, 810
+  offset: 229, 0
+  index: -1
+PNG/partSeq/transitionParticles_29
+  rotate: false
+  xy: 1371, 26
+  size: 664, 807
+  orig: 992, 810
+  offset: 206, 0
+  index: -1
+PNG/partSeq/transitionParticles_30
+  rotate: false
+  xy: 2, 736
+  size: 680, 810
+  orig: 992, 810
+  offset: 199, 0
+  index: -1
+PNG/partSeq/transitionParticles_32
+  rotate: true
+  xy: 684, 835
+  size: 711, 765
+  orig: 992, 810
+  offset: 185, 0
+  index: -1
+PNG/partSeq/transitionParticles_37
+  rotate: false
+  xy: 2, 2
+  size: 743, 732
+  orig: 992, 810
+  offset: 136, 0
+  index: -1
+
+triplePlatinum_transition4.jpeg
+size: 2044,1586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/partSeq/transitionParticles_25
+  rotate: false
+  xy: 1250, 69
+  size: 583, 810
+  orig: 992, 810
+  offset: 249, 0
+  index: -1
+PNG/partSeq/transitionParticles_26
+  rotate: false
+  xy: 646, 2
+  size: 602, 810
+  orig: 992, 810
+  offset: 240, 0
+  index: -1
+PNG/partSeq/transitionParticles_28
+  rotate: false
+  xy: 2, 10
+  size: 642, 802
+  orig: 992, 810
+  offset: 218, 0
+  index: -1
+PNG/partSeq/transitionParticles_31
+  rotate: false
+  xy: 2, 814
+  size: 692, 770
+  orig: 992, 810
+  offset: 196, 0
+  index: -1
+PNG/partSeq/transitionParticles_38
+  rotate: false
+  xy: 696, 881
+  size: 682, 703
+  orig: 992, 810
+  offset: 126, 0
+  index: -1
+PNG/partSeq/transitionParticles_40
+  rotate: false
+  xy: 1380, 896
+  size: 662, 688
+  orig: 992, 810
+  offset: 163, 0
+  index: -1
+
+triplePlatinum_transition5.jpeg
+size: 2034,1927
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/partSeq/transitionParticles_19
+  rotate: true
+  xy: 2, 1393
+  size: 532, 687
+  orig: 992, 810
+  offset: 281, 123
+  index: -1
+PNG/partSeq/transitionParticles_24
+  rotate: true
+  xy: 691, 1359
+  size: 566, 781
+  orig: 992, 810
+  offset: 257, 29
+  index: -1
+PNG/partSeq/transitionParticles_39
+  rotate: false
+  xy: 1374, 2
+  size: 658, 681
+  orig: 992, 810
+  offset: 159, 0
+  index: -1
+PNG/partSeq/transitionParticles_43
+  rotate: true
+  xy: 2, 136
+  size: 616, 694
+  orig: 992, 810
+  offset: 164, 0
+  index: -1
+PNG/partSeq/transitionParticles_44
+  rotate: true
+  xy: 678, 754
+  size: 603, 696
+  orig: 992, 810
+  offset: 184, 0
+  index: -1
+PNG/partSeq/transitionParticles_47
+  rotate: false
+  xy: 1376, 685
+  size: 632, 672
+  orig: 992, 810
+  offset: 164, 0
+  index: -1
+PNG/partSeq/transitionParticles_48
+  rotate: true
+  xy: 2, 763
+  size: 628, 674
+  orig: 992, 810
+  offset: 177, 0
+  index: -1
+PNG/partSeq/transitionParticles_49
+  rotate: true
+  xy: 698, 121
+  size: 631, 674
+  orig: 992, 810
+  offset: 175, 0
+  index: -1
+
+triplePlatinum_transition6.jpeg
+size: 1395,1319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/partSeq/transitionParticles_41
+  rotate: true
+  xy: 2, 20
+  size: 677, 688
+  orig: 992, 810
+  offset: 156, 0
+  index: -1
+PNG/partSeq/transitionParticles_42
+  rotate: true
+  xy: 692, 2
+  size: 680, 693
+  orig: 992, 810
+  offset: 161, 0
+  index: -1
+PNG/partSeq/transitionParticles_45
+  rotate: true
+  xy: 2, 699
+  size: 618, 695
+  orig: 992, 810
+  offset: 177, 0
+  index: -1
+PNG/partSeq/transitionParticles_46
+  rotate: true
+  xy: 699, 684
+  size: 633, 694
+  orig: 992, 810
+  offset: 169, 0
+  index: -1
+
+triplePlatinum_transition2.png
+size: 2023,2036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/tranSeq_mask/transitionParticles_00
+  rotate: false
+  xy: 2, 2033
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0000
+  rotate: false
+  xy: 2, 2033
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0050
+  rotate: false
+  xy: 2, 2033
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_50
+  rotate: false
+  xy: 2, 2033
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0001
+  rotate: false
+  xy: 5, 1999
+  size: 48, 35
+  orig: 496, 405
+  offset: 256, 370
+  index: -1
+PNG/tranSeq_mask/transitionParticles_01
+  rotate: false
+  xy: 5, 1999
+  size: 48, 35
+  orig: 496, 405
+  offset: 256, 370
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0002
+  rotate: false
+  xy: 55, 1989
+  size: 46, 45
+  orig: 496, 405
+  offset: 259, 360
+  index: -1
+PNG/tranSeq_mask/transitionParticles_02
+  rotate: false
+  xy: 55, 1989
+  size: 46, 45
+  orig: 496, 405
+  offset: 259, 360
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0003
+  rotate: false
+  xy: 103, 1983
+  size: 86, 51
+  orig: 496, 405
+  offset: 232, 354
+  index: -1
+PNG/tranSeq_mask/transitionParticles_03
+  rotate: false
+  xy: 103, 1983
+  size: 86, 51
+  orig: 496, 405
+  offset: 232, 354
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0004
+  rotate: false
+  xy: 191, 1966
+  size: 133, 68
+  orig: 496, 405
+  offset: 190, 337
+  index: -1
+PNG/tranSeq_mask/transitionParticles_04
+  rotate: false
+  xy: 191, 1966
+  size: 133, 68
+  orig: 496, 405
+  offset: 190, 337
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0005
+  rotate: false
+  xy: 326, 1941
+  size: 136, 93
+  orig: 496, 405
+  offset: 193, 312
+  index: -1
+PNG/tranSeq_mask/transitionParticles_05
+  rotate: false
+  xy: 326, 1941
+  size: 136, 93
+  orig: 496, 405
+  offset: 193, 312
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0006
+  rotate: false
+  xy: 621, 1917
+  size: 143, 117
+  orig: 496, 405
+  offset: 192, 288
+  index: -1
+PNG/tranSeq_mask/transitionParticles_06
+  rotate: false
+  xy: 621, 1917
+  size: 143, 117
+  orig: 496, 405
+  offset: 192, 288
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0007
+  rotate: false
+  xy: 464, 1920
+  size: 155, 114
+  orig: 496, 405
+  offset: 187, 291
+  index: -1
+PNG/tranSeq_mask/transitionParticles_07
+  rotate: false
+  xy: 464, 1920
+  size: 155, 114
+  orig: 496, 405
+  offset: 187, 291
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0008
+  rotate: false
+  xy: 766, 1902
+  size: 169, 132
+  orig: 496, 405
+  offset: 183, 273
+  index: -1
+PNG/tranSeq_mask/transitionParticles_08
+  rotate: false
+  xy: 766, 1902
+  size: 169, 132
+  orig: 496, 405
+  offset: 183, 273
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0009
+  rotate: false
+  xy: 937, 1895
+  size: 182, 139
+  orig: 496, 405
+  offset: 177, 266
+  index: -1
+PNG/tranSeq_mask/transitionParticles_09
+  rotate: false
+  xy: 937, 1895
+  size: 182, 139
+  orig: 496, 405
+  offset: 177, 266
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0010
+  rotate: false
+  xy: 1322, 1851
+  size: 191, 183
+  orig: 496, 405
+  offset: 173, 222
+  index: -1
+PNG/tranSeq_mask/transitionParticles_10
+  rotate: false
+  xy: 1322, 1851
+  size: 191, 183
+  orig: 496, 405
+  offset: 173, 222
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0011
+  rotate: false
+  xy: 1121, 1854
+  size: 199, 180
+  orig: 496, 405
+  offset: 168, 225
+  index: -1
+PNG/tranSeq_mask/transitionParticles_11
+  rotate: false
+  xy: 1121, 1854
+  size: 199, 180
+  orig: 496, 405
+  offset: 168, 225
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0012
+  rotate: true
+  xy: 1515, 1828
+  size: 206, 220
+  orig: 496, 405
+  offset: 165, 185
+  index: -1
+PNG/tranSeq_mask/transitionParticles_12
+  rotate: true
+  xy: 1515, 1828
+  size: 206, 220
+  orig: 496, 405
+  offset: 165, 185
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0013
+  rotate: true
+  xy: 1737, 1820
+  size: 214, 284
+  orig: 496, 405
+  offset: 162, 121
+  index: -1
+PNG/tranSeq_mask/transitionParticles_13
+  rotate: true
+  xy: 1737, 1820
+  size: 214, 284
+  orig: 496, 405
+  offset: 162, 121
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0014
+  rotate: true
+  xy: 2, 1743
+  size: 221, 287
+  orig: 496, 405
+  offset: 159, 118
+  index: -1
+PNG/tranSeq_mask/transitionParticles_14
+  rotate: true
+  xy: 2, 1743
+  size: 221, 287
+  orig: 496, 405
+  offset: 159, 118
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0015
+  rotate: true
+  xy: 291, 1685
+  size: 233, 310
+  orig: 496, 405
+  offset: 154, 95
+  index: -1
+PNG/tranSeq_mask/transitionParticles_15
+  rotate: true
+  xy: 291, 1685
+  size: 233, 310
+  orig: 496, 405
+  offset: 154, 95
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0016
+  rotate: true
+  xy: 603, 1658
+  size: 242, 311
+  orig: 496, 405
+  offset: 150, 94
+  index: -1
+PNG/tranSeq_mask/transitionParticles_16
+  rotate: true
+  xy: 603, 1658
+  size: 242, 311
+  orig: 496, 405
+  offset: 150, 94
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0017
+  rotate: true
+  xy: 916, 1600
+  size: 252, 330
+  orig: 496, 405
+  offset: 146, 75
+  index: -1
+PNG/tranSeq_mask/transitionParticles_17
+  rotate: true
+  xy: 916, 1600
+  size: 252, 330
+  orig: 496, 405
+  offset: 146, 75
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0018
+  rotate: true
+  xy: 1248, 1567
+  size: 259, 338
+  orig: 496, 405
+  offset: 143, 67
+  index: -1
+PNG/tranSeq_mask/transitionParticles_18
+  rotate: true
+  xy: 1248, 1567
+  size: 259, 338
+  orig: 496, 405
+  offset: 143, 67
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0019
+  rotate: true
+  xy: 2, 1418
+  size: 265, 343
+  orig: 496, 405
+  offset: 141, 62
+  index: -1
+PNG/tranSeq_mask/transitionParticles_19
+  rotate: true
+  xy: 2, 1418
+  size: 265, 343
+  orig: 496, 405
+  offset: 141, 62
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0020
+  rotate: true
+  xy: 728, 1330
+  size: 268, 346
+  orig: 496, 405
+  offset: 139, 59
+  index: -1
+PNG/tranSeq_mask/transitionParticles_20
+  rotate: true
+  xy: 728, 1330
+  size: 268, 346
+  orig: 496, 405
+  offset: 139, 59
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0021
+  rotate: true
+  xy: 1588, 1554
+  size: 264, 375
+  orig: 496, 405
+  offset: 138, 30
+  index: -1
+PNG/tranSeq_mask/transitionParticles_21
+  rotate: true
+  xy: 1588, 1554
+  size: 264, 375
+  orig: 496, 405
+  offset: 138, 30
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0022
+  rotate: true
+  xy: 347, 1391
+  size: 265, 379
+  orig: 496, 405
+  offset: 138, 26
+  index: -1
+PNG/tranSeq_mask/transitionParticles_22
+  rotate: true
+  xy: 347, 1391
+  size: 265, 379
+  orig: 496, 405
+  offset: 138, 26
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0023
+  rotate: true
+  xy: 1076, 1291
+  size: 274, 383
+  orig: 496, 405
+  offset: 133, 22
+  index: -1
+PNG/tranSeq_mask/transitionParticles_23
+  rotate: true
+  xy: 1076, 1291
+  size: 274, 383
+  orig: 496, 405
+  offset: 133, 22
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0024
+  rotate: true
+  xy: 1461, 1268
+  size: 284, 390
+  orig: 496, 405
+  offset: 128, 15
+  index: -1
+PNG/tranSeq_mask/transitionParticles_24
+  rotate: true
+  xy: 1461, 1268
+  size: 284, 390
+  orig: 496, 405
+  offset: 128, 15
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0025
+  rotate: true
+  xy: 1040, 997
+  size: 292, 405
+  orig: 496, 405
+  offset: 124, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_25
+  rotate: true
+  xy: 1040, 997
+  size: 292, 405
+  orig: 496, 405
+  offset: 124, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0026
+  rotate: true
+  xy: 1447, 965
+  size: 301, 405
+  orig: 496, 405
+  offset: 120, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_26
+  rotate: true
+  xy: 1447, 965
+  size: 301, 405
+  orig: 496, 405
+  offset: 120, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0027
+  rotate: true
+  xy: 1028, 683
+  size: 312, 405
+  orig: 496, 405
+  offset: 114, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_27
+  rotate: true
+  xy: 1028, 683
+  size: 312, 405
+  orig: 496, 405
+  offset: 114, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0028
+  rotate: true
+  xy: 2, 453
+  size: 321, 401
+  orig: 496, 405
+  offset: 109, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_28
+  rotate: true
+  xy: 2, 453
+  size: 321, 401
+  orig: 496, 405
+  offset: 109, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0029
+  rotate: true
+  xy: 1434, 312
+  size: 332, 404
+  orig: 496, 405
+  offset: 103, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_29
+  rotate: true
+  xy: 1434, 312
+  size: 332, 404
+  orig: 496, 405
+  offset: 103, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0031
+  rotate: true
+  xy: 704, 2
+  size: 346, 385
+  orig: 496, 405
+  offset: 98, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_31
+  rotate: true
+  xy: 704, 2
+  size: 346, 385
+  orig: 496, 405
+  offset: 98, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0038
+  rotate: true
+  xy: 2, 110
+  size: 341, 352
+  orig: 496, 405
+  offset: 63, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_38
+  rotate: true
+  xy: 2, 110
+  size: 341, 352
+  orig: 496, 405
+  offset: 63, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0039
+  rotate: true
+  xy: 405, 372
+  size: 328, 340
+  orig: 496, 405
+  offset: 80, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_39
+  rotate: true
+  xy: 405, 372
+  size: 328, 340
+  orig: 496, 405
+  offset: 80, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0040
+  rotate: true
+  xy: 747, 350
+  size: 331, 344
+  orig: 496, 405
+  offset: 82, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_40
+  rotate: true
+  xy: 747, 350
+  size: 331, 344
+  orig: 496, 405
+  offset: 82, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0041
+  rotate: false
+  xy: 1093, 337
+  size: 339, 344
+  orig: 496, 405
+  offset: 78, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_41
+  rotate: false
+  xy: 1093, 337
+  size: 339, 344
+  orig: 496, 405
+  offset: 78, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0042
+  rotate: true
+  xy: 356, 29
+  size: 341, 346
+  orig: 496, 405
+  offset: 80, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_42
+  rotate: true
+  xy: 356, 29
+  size: 341, 346
+  orig: 496, 405
+  offset: 80, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0043
+  rotate: true
+  xy: 691, 1020
+  size: 308, 347
+  orig: 496, 405
+  offset: 82, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_43
+  rotate: true
+  xy: 691, 1020
+  size: 308, 347
+  orig: 496, 405
+  offset: 82, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0044
+  rotate: true
+  xy: 341, 1087
+  size: 302, 348
+  orig: 496, 405
+  offset: 92, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_44
+  rotate: true
+  xy: 341, 1087
+  size: 302, 348
+  orig: 496, 405
+  offset: 92, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0045
+  rotate: true
+  xy: 341, 776
+  size: 309, 347
+  orig: 496, 405
+  offset: 89, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_45
+  rotate: true
+  xy: 341, 776
+  size: 309, 347
+  orig: 496, 405
+  offset: 89, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0046
+  rotate: true
+  xy: 1435, 646
+  size: 317, 347
+  orig: 496, 405
+  offset: 84, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_46
+  rotate: true
+  xy: 1435, 646
+  size: 317, 347
+  orig: 496, 405
+  offset: 84, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0047
+  rotate: true
+  xy: 690, 702
+  size: 316, 336
+  orig: 496, 405
+  offset: 82, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_47
+  rotate: true
+  xy: 690, 702
+  size: 316, 336
+  orig: 496, 405
+  offset: 82, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0048
+  rotate: true
+  xy: 2, 1101
+  size: 315, 337
+  orig: 496, 405
+  offset: 88, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_48
+  rotate: true
+  xy: 2, 1101
+  size: 315, 337
+  orig: 496, 405
+  offset: 88, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0049
+  rotate: true
+  xy: 2, 784
+  size: 315, 337
+  orig: 496, 405
+  offset: 88, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_49
+  rotate: true
+  xy: 2, 784
+  size: 315, 337
+  orig: 496, 405
+  offset: 88, 0
+  index: -1
+
+triplePlatinum_transition3.png
+size: 1451,786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/tranSeq_mask/transitionParticles_0030
+  rotate: false
+  xy: 2, 379
+  size: 341, 405
+  orig: 496, 405
+  offset: 99, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_30
+  rotate: false
+  xy: 2, 379
+  size: 341, 405
+  orig: 496, 405
+  offset: 99, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0032
+  rotate: false
+  xy: 388, 6
+  size: 356, 383
+  orig: 496, 405
+  offset: 92, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_32
+  rotate: false
+  xy: 388, 6
+  size: 356, 383
+  orig: 496, 405
+  offset: 92, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0033
+  rotate: false
+  xy: 716, 403
+  size: 365, 381
+  orig: 496, 405
+  offset: 88, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_33
+  rotate: false
+  xy: 716, 403
+  size: 365, 381
+  orig: 496, 405
+  offset: 88, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0034
+  rotate: false
+  xy: 746, 24
+  size: 374, 377
+  orig: 496, 405
+  offset: 83, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_34
+  rotate: false
+  xy: 746, 24
+  size: 374, 377
+  orig: 496, 405
+  offset: 83, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0035
+  rotate: false
+  xy: 2, 2
+  size: 384, 375
+  orig: 496, 405
+  offset: 78, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_35
+  rotate: false
+  xy: 2, 2
+  size: 384, 375
+  orig: 496, 405
+  offset: 78, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0036
+  rotate: true
+  xy: 345, 391
+  size: 393, 369
+  orig: 496, 405
+  offset: 73, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_36
+  rotate: true
+  xy: 345, 391
+  size: 393, 369
+  orig: 496, 405
+  offset: 73, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_0037
+  rotate: true
+  xy: 1083, 413
+  size: 371, 366
+  orig: 496, 405
+  offset: 68, 0
+  index: -1
+PNG/tranSeq_mask/transitionParticles_37
+  rotate: true
+  xy: 1083, 413
+  size: 371, 366
+  orig: 496, 405
+  offset: 68, 0
+  index: -1

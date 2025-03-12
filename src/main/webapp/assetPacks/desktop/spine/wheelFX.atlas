@@ -1,0 +1,602 @@
+
+wheelFX.jpg
+size: 1808,1808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelBurstSparks_00
+  rotate: false
+  xy: 599, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_01
+  rotate: false
+  xy: 1201, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_02
+  rotate: false
+  xy: 2, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_03
+  rotate: false
+  xy: 604, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_04
+  rotate: false
+  xy: 1206, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_05
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_06
+  rotate: false
+  xy: 604, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_07
+  rotate: false
+  xy: 1206, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelWhiteOut
+  rotate: false
+  xy: 2, 1211
+  size: 595, 595
+  orig: 810, 810
+  offset: 107, 115
+  index: -1
+
+wheelFX2.jpg
+size: 1808,1808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelBurstSparks_08
+  rotate: false
+  xy: 2, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_09
+  rotate: false
+  xy: 604, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_10
+  rotate: false
+  xy: 1206, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_11
+  rotate: false
+  xy: 2, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_12
+  rotate: false
+  xy: 604, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_13
+  rotate: false
+  xy: 1206, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_14
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_15
+  rotate: false
+  xy: 604, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_16
+  rotate: false
+  xy: 1206, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+wheelFX3.jpg
+size: 1808,1808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelBurstSparks_17
+  rotate: false
+  xy: 2, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_18
+  rotate: false
+  xy: 604, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_19
+  rotate: false
+  xy: 1206, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_20
+  rotate: false
+  xy: 2, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_21
+  rotate: false
+  xy: 604, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_22
+  rotate: false
+  xy: 1206, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_23
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_24
+  rotate: false
+  xy: 604, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_25
+  rotate: false
+  xy: 1206, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+wheelFX4.jpg
+size: 1808,1808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelBurstSparks_26
+  rotate: false
+  xy: 2, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_27
+  rotate: false
+  xy: 604, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_28
+  rotate: false
+  xy: 1206, 1206
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_29
+  rotate: false
+  xy: 2, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_30
+  rotate: false
+  xy: 604, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_31
+  rotate: false
+  xy: 1206, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_32
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_33
+  rotate: false
+  xy: 604, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_34
+  rotate: false
+  xy: 1206, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+wheelFX5.jpg
+size: 1808,1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelBurstSparks_35
+  rotate: false
+  xy: 2, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_36
+  rotate: false
+  xy: 604, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_37
+  rotate: false
+  xy: 1206, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_38
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+JPG/wheelBurstSparks_39
+  rotate: false
+  xy: 604, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+wheelFX6.jpg
+size: 2006,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelSparkLoop_00
+  rotate: false
+  xy: 2, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_02
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_04
+  rotate: false
+  xy: 1004, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_06
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+wheelFX7.jpg
+size: 2006,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelSparkLoop_08
+  rotate: false
+  xy: 2, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_10
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_12
+  rotate: false
+  xy: 1004, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_14
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+wheelFX8.jpg
+size: 2006,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelSparkLoop_16
+  rotate: false
+  xy: 2, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_18
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_20
+  rotate: false
+  xy: 1004, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_22
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+wheelFX9.jpg
+size: 2006,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelSparkLoop_24
+  rotate: false
+  xy: 2, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_26
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_28
+  rotate: false
+  xy: 1004, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_30
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+wheelFX10.jpg
+size: 2006,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelSparkLoop_32
+  rotate: false
+  xy: 2, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_34
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_36
+  rotate: false
+  xy: 1004, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_38
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+wheelFX11.jpg
+size: 2006,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelSparkLoop_40
+  rotate: false
+  xy: 2, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_42
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_44
+  rotate: false
+  xy: 1004, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_46
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+wheelFX12.jpg
+size: 2006,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelSparkLoop_48
+  rotate: false
+  xy: 2, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_50
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_52
+  rotate: false
+  xy: 1004, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_54
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+wheelFX13.jpg
+size: 2006,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelSparkLoop_56
+  rotate: false
+  xy: 2, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_58
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_60
+  rotate: false
+  xy: 1004, 1004
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+JPG/wheelSparkLoop_62
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+wheelFX14.jpg
+size: 1004,1004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/wheelSparkLoop_64
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1

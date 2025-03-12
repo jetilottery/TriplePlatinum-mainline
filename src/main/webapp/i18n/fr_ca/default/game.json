@@ -1,0 +1,98 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % à {@maxRTP} %",
+    "paybackTitle": "Taux de retour théorique",
+    "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme est de {RTP}.",
+    "subheading": "Coût du billet : {ticketCost}",
+    "prizeLevel": "Niveau du lot",
+    "description": "Description",
+    "prizeValue": "Valeur du lot",
+    "descriptionText1": "Gain Platinum Bar identiques",
+    "descriptionText2": "Lot boni"
+  },
+  "title": "MODÈLE",
+  "MenuCommand": {
+    "price": "Coût",
+    "stake": "Mise",
+    "howToPlay": "Aide",
+    "paytable": "Table de paiement",
+    "close": "Fermer",
+    "audio": {
+      "sound": "Son",
+      "on": "Activé",
+      "off": "Désactivé"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur : ",
+    "genericErrorText": "Une erreur interne est survenue. QUITTEZ le jeu et relancez-le."
+  },
+  "Game": {
+    "footer_balance": "SOLDE",
+    "footer_ticketCost": "COÛT DU BILLET",
+    "ticketSelect_ticketCost": "COÛT DU BILLET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "ESSAYER "
+    },
+    "footer_win": {
+      "BUY": "GAIN",
+      "TRY": "GAIN FICTIF"
+    },
+
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "ESSAYER"
+    },
+    "button_try": "ESSAYER",
+    "button_retry": "ESSAYER DE NOUVEAU",
+    "button_continue": "CONTINUER",
+    "button_moveToMoney": "MODE ARGENT RÉEL",
+    "button_autoPlay": "TOUT AFFICHER",
+    "button_stop": "ARRÊTER",
+    "button_playAgain": {
+      "BUY": "JOUER DE NOUVEAU",
+      "TRY": "ESSAYER DE NOUVEAU"
+    },
+    "button_tryAgain": "ESSAYER DE NOUVEAU",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+
+    "error_button_exit": "QUITTER",
+    "error_title": "ERREUR",
+
+    "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+    "message_win": {
+      "BUY": "FÉLICITATIONS!\nVOUS AVEZ GAGNÉ",
+      "TRY": "MERCI D’AVOIR JOUÉ!\nVOUS AURIEZ PU GAGNER"
+    },
+
+    "howToPlay": "COMMENT JOUER",
+    "page1_line1": "[7]Découvrez n'importe quel symbole Barre Platinum et gagnez le lot correspondant.",
+    "page1_line2": "[77]Découvrez un symbole Double barres Platinum pour doubler le lot correspondant.",
+    "page1_line3": "[777]Découvrez un symbole Triple barres Platinum pour tripler le lot correspondant.",
+    "page1_line4": "[RUBY]Découvrez trois symboles Anneaux Platinum pour déverrouiller le jeu boni.",
+
+    "page2_line1": "[WHEEL]Lancez la roue pour commencer le jeu boni.",
+    "page2_line2": "[WHEELPRIZE]Gagnez un lot lorsque le pointeur de la roue indique un lot.",
+    "page2_line3": "[WHEELARROW]Passez à la roue suivante lorsque le pointeur de la roue indique un symbole Flèche.",
+    "page2_line4": "[WHEELX]Obtenez un symbole X et un Anneau Platinum est retiré.\nLe jeu boni prend fin lorsqu'il ne reste aucun symbole Anneau Platinum.",
+
+    "winUpTo": "GAGNEZ JUSQU’À",
+    "bonus": "SYMBOLE BONI",
+    "bonusNoWin": "AUCUN GAIN BONI",
+    "bonusWin": "GAIN BONI",
+    "totalWin": "GAIN TOTAL",
+    "infoBarText": "DÉCOUVREZ DES BARRES PLATINUM POUR GAGNER!",
+    "bonusInfo": "Trois symboles ou plus déverrouillent le jeu boni",
+    "bonusInfo2": "Zéro symbole Anneau Platinum = le jeu boni prend fin",
+
+    "bonusSpinButton": "BoutonPartieBoni",
+    "respin": "Relance",
+
+    "yourNumbers": "VOS NUMÉROS",
+    "luckyNumbers": "NUMÉROS CHANCEUX"
+  }
+}

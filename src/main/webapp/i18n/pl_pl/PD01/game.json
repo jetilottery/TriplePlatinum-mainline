@@ -1,0 +1,112 @@
+﻿{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot w tej grze wynosi {RTP}.",
+        "subheading": "Opłata za los: {ticketCost}",
+        "prizeLevel": "Stopień wygranej",
+        "description": "Opis",
+        "prizeValue": "Wartość wygranej",
+        "overallChances": "Łączna szansa wygrania nagrody w każdej rozgrywce wynosi 1 do {odds}",
+        "prizeDivision": "Stopień wygranej",
+        "prizeRemaining": "Pozostało do wygrania",
+        "oddsPerPlay": "Szansa na wygraną",
+        "descriptionText1": "Wygrana dopasowania platynowej sztabki",
+        "descriptionText2": "Wygrana bonusowa"
+    },
+    "title": "Potrójna Platyna",
+    "MenuCommand":
+    {
+        "price": "Cena",
+        "stake": "Stawka",
+        "howToPlay": "Zasady gry",
+        "paytable": "Tabela wygranych",
+        "close": "Zamknij",
+        "audio":
+        {
+            "sound": "Dźwięk",
+            "on": "Wł.",
+            "off": "Wył."
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Błąd: ",
+        "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "OPŁATA ZA LOS",
+        "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "WYGRANA",
+            "TRY": "WYGRANA DEMO"
+        },
+
+        "button_buy":
+        {
+            "BUY": "PŁACĘ",
+            "TRY": "DEMO"
+        },
+        "button_try": "DEMO",
+        "button_retry": "SPRÓBUJ PONOWNIE",
+        "button_continue": "KONTYNUUJ",
+        "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay": "AUTO",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "GRAJ PONOWNIE",
+            "TRY": "SPRÓBUJ PONOWNIE"
+        },
+        "button_tryAgain": "SPRÓBUJ PONOWNIE",
+        "button_ok": "OK",
+        "button_exit": "WYJDŹ",
+
+        "error_button_exit": "WYJDŹ",
+        "error_title": "BŁĄD",
+
+        "message_nonWin": "POWODZENIA NASTĘPNYM\nRAZEM",
+        "message_win":
+        {
+            "BUY": "GRATULACJE!\nTWOJA WYGRANA TO:",
+            "TRY": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ"
+        },
+
+        "howToPlay": "ZASADY GRY",
+        "page1_line1": "[7]Odkryj platynową sztabkę, aby wygrać.",
+        "page1_line2": "[77]Odkryj podwójną platynową sztabkę, aby podwoić wygraną.",
+        "page1_line3": "[777]Odkryj potrójną  sztabkę, aby potroić wygraną.",
+        "page1_line4": "[RUBY]Odkryj co najmniej 3 platynowe pierścienie, aby uruchomić grę bonusową.",
+
+        "page2_line1": "[WHEEL]Zakręć kołem, aby rozpocząć grę bonusową.",
+        "page2_line2": "[WHEELPRIZE]Wygraj kwotę przypisaną do pola na którym zatrzyma się wskaźnik.",
+        "page2_line3": "[WHEELARROW]Przejdź do następnego koła, gdy wskaźnik zatrzyma się na symbolu strzałki.",
+        "page2_line4": "[WHEELX]Wylosowanie symbolu X spowoduje usunięcie platynowego pierścienia.\nBonus zakończy się po usunięciu wszystkich platynowych pierścieni.",
+
+        "winUpTo": "WYGRAJ DO",
+        "bonus": "BONUS",
+        "bonusNoWin": "BRAK WYGRANEJ BONUSOWEJ",
+        "bonusWin": "WYGRANA BONUSOWA",
+        "totalWin": "ŁĄCZNA WYGRANA",
+        "infoBarText": "ZNAJDŹ PLATYNOWE SZTABKI, ABY WYGRAĆ!",
+        "bonusInfo": "Co najmniej 3 odblokowują bonus",
+        "bonusInfo2": "Brak platynowych pierścieni = koniec bonusu",
+
+        "bonusSpinButton": "Przycisk Obrót bonusu",
+        "respin": "Obrót ponowny",
+
+        "yourNumbers": "TWOJE LICZBY",
+        "luckyNumbers": "SZCZĘŚLIWE LICZBY"
+    }
+}

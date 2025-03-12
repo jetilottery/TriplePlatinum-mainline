@@ -1,0 +1,742 @@
+
+winPlaqueAnim.jpg
+size: 1994,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/gemBurst_01
+  rotate: true
+  xy: 113, 1904
+  size: 104, 149
+  orig: 104, 149
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_03
+  rotate: true
+  xy: 2, 1930
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_05
+  rotate: true
+  xy: 264, 1886
+  size: 122, 153
+  orig: 122, 153
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_07
+  rotate: true
+  xy: 973, 1841
+  size: 167, 208
+  orig: 167, 208
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_09
+  rotate: true
+  xy: 1183, 1797
+  size: 211, 262
+  orig: 211, 262
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_11
+  rotate: true
+  xy: 383, 1596
+  size: 262, 309
+  orig: 262, 309
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_65
+  rotate: false
+  xy: 1075, 1521
+  size: 830, 231
+  orig: 830, 231
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_67
+  rotate: false
+  xy: 764, 1282
+  size: 847, 237
+  orig: 847, 237
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_69
+  rotate: false
+  xy: 702, 1852
+  size: 269, 156
+  orig: 269, 156
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_71
+  rotate: false
+  xy: 419, 1860
+  size: 281, 148
+  orig: 281, 148
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_00
+  rotate: true
+  xy: 1447, 1754
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_16
+  rotate: true
+  xy: 1447, 1754
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_01
+  rotate: true
+  xy: 2, 1630
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_02
+  rotate: true
+  xy: 694, 1585
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_03
+  rotate: true
+  xy: 2, 1374
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_04
+  rotate: true
+  xy: 383, 1329
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_05
+  rotate: true
+  xy: 1613, 1265
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_06
+  rotate: true
+  xy: 2, 1118
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_07
+  rotate: true
+  xy: 383, 1073
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_08
+  rotate: true
+  xy: 764, 1026
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_09
+  rotate: true
+  xy: 1145, 1026
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_10
+  rotate: true
+  xy: 1526, 1009
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_11
+  rotate: true
+  xy: 2, 862
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_12
+  rotate: true
+  xy: 383, 817
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_13
+  rotate: true
+  xy: 764, 770
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_14
+  rotate: true
+  xy: 1145, 770
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_15
+  rotate: true
+  xy: 1526, 753
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_30
+  rotate: true
+  xy: 1526, 753
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_17
+  rotate: true
+  xy: 2, 606
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_18
+  rotate: true
+  xy: 383, 561
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_19
+  rotate: true
+  xy: 764, 514
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_20
+  rotate: true
+  xy: 1145, 514
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_21
+  rotate: true
+  xy: 1526, 497
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_22
+  rotate: true
+  xy: 2, 350
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_23
+  rotate: true
+  xy: 383, 305
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_24
+  rotate: true
+  xy: 764, 258
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_25
+  rotate: true
+  xy: 1145, 258
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_26
+  rotate: true
+  xy: 1526, 241
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_27
+  rotate: true
+  xy: 2, 94
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_28
+  rotate: true
+  xy: 383, 49
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+JPG/winBox_FX_29
+  rotate: true
+  xy: 764, 2
+  size: 254, 379
+  orig: 254, 379
+  offset: 0, 0
+  index: -1
+
+winPlaqueAnim2.jpg
+size: 2041,1880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/gemBurst_13
+  rotate: true
+  xy: 2, 1568
+  size: 310, 365
+  orig: 310, 365
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_15
+  rotate: true
+  xy: 1501, 1519
+  size: 359, 417
+  orig: 359, 417
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_17
+  rotate: true
+  xy: 1102, 1109
+  size: 408, 473
+  orig: 408, 473
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_19
+  rotate: false
+  xy: 1577, 990
+  size: 455, 527
+  orig: 455, 527
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_21
+  rotate: true
+  xy: 1083, 487
+  size: 501, 579
+  orig: 501, 579
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_53
+  rotate: false
+  xy: 1053, 2
+  size: 986, 483
+  orig: 986, 483
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_57
+  rotate: false
+  xy: 2, 322
+  size: 1049, 450
+  orig: 1049, 450
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_59
+  rotate: false
+  xy: 2, 774
+  size: 1079, 408
+  orig: 1079, 408
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_61
+  rotate: false
+  xy: 2, 1184
+  size: 1098, 371
+  orig: 1098, 371
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_63
+  rotate: false
+  xy: 369, 1557
+  size: 1130, 321
+  orig: 1130, 321
+  offset: 0, 0
+  index: -1
+
+winPlaqueAnim3.jpg
+size: 1593,1697
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/gemBurst_23
+  rotate: true
+  xy: 2, 659
+  size: 545, 630
+  orig: 545, 630
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_25
+  rotate: true
+  xy: 2, 5
+  size: 590, 684
+  orig: 590, 684
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_47
+  rotate: false
+  xy: 688, 2
+  size: 892, 593
+  orig: 892, 593
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_51
+  rotate: false
+  xy: 634, 597
+  size: 957, 556
+  orig: 957, 556
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_55
+  rotate: false
+  xy: 2, 1206
+  size: 1016, 489
+  orig: 1016, 489
+  offset: 0, 0
+  index: -1
+JPG/lightPing
+  rotate: false
+  xy: 1020, 1155
+  size: 540, 540
+  orig: 540, 540
+  offset: 0, 0
+  index: -1
+
+winPlaqueAnim4.jpg
+size: 1723,2000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/gemBurst_27
+  rotate: true
+  xy: 932, 1366
+  size: 632, 736
+  orig: 632, 736
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_29
+  rotate: true
+  xy: 862, 686
+  size: 678, 787
+  orig: 678, 787
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_31
+  rotate: true
+  xy: 2, 25
+  size: 720, 752
+  orig: 720, 752
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_43
+  rotate: false
+  xy: 756, 2
+  size: 965, 682
+  orig: 965, 682
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_45
+  rotate: false
+  xy: 2, 747
+  size: 858, 656
+  orig: 858, 656
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_49
+  rotate: false
+  xy: 2, 1405
+  size: 928, 593
+  orig: 928, 593
+  offset: 0, 0
+  index: -1
+
+winPlaqueAnim5.jpg
+size: 1832,1489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/gemBurst_35
+  rotate: false
+  xy: 2, 44
+  size: 810, 734
+  orig: 810, 734
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_37
+  rotate: false
+  xy: 814, 2
+  size: 853, 752
+  orig: 853, 752
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_39
+  rotate: false
+  xy: 936, 756
+  size: 894, 731
+  orig: 894, 731
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_41
+  rotate: false
+  xy: 2, 780
+  size: 932, 707
+  orig: 932, 707
+  offset: 0, 0
+  index: -1
+
+winPlaqueAnim6.jpg
+size: 1502,1300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/flare
+  rotate: true
+  xy: 2, 2
+  size: 1296, 729
+  orig: 1296, 729
+  offset: 0, 0
+  index: -1
+JPG/gemBurst_33
+  rotate: false
+  xy: 733, 510
+  size: 767, 788
+  orig: 767, 788
+  offset: 0, 0
+  index: -1
+
+winPlaqueAnim.png
+size: 1253,1546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/gemSpin_00
+  rotate: true
+  xy: 2, 9
+  size: 146, 195
+  orig: 250, 250
+  offset: 50, 45
+  index: -1
+PNG/gemSpin_01
+  rotate: true
+  xy: 382, 19
+  size: 136, 175
+  orig: 250, 250
+  offset: 58, 53
+  index: -1
+PNG/gemSpin_02
+  rotate: false
+  xy: 849, 17
+  size: 117, 140
+  orig: 250, 250
+  offset: 68, 67
+  index: -1
+PNG/gemSpin_03
+  rotate: false
+  xy: 911, 175
+  size: 91, 98
+  orig: 250, 250
+  offset: 81, 84
+  index: -1
+PNG/gemSpin_04
+  rotate: true
+  xy: 1090, 66
+  size: 64, 55
+  orig: 250, 250
+  offset: 93, 102
+  index: -1
+PNG/gemSpin_05
+  rotate: false
+  xy: 1147, 277
+  size: 64, 61
+  orig: 250, 250
+  offset: 93, 97
+  index: -1
+PNG/gemSpin_06
+  rotate: false
+  xy: 1083, 275
+  size: 62, 63
+  orig: 250, 250
+  offset: 94, 94
+  index: -1
+PNG/gemSpin_07
+  rotate: false
+  xy: 1090, 132
+  size: 62, 62
+  orig: 250, 250
+  offset: 94, 93
+  index: -1
+PNG/gemSpin_08
+  rotate: false
+  xy: 1154, 87
+  size: 64, 59
+  orig: 250, 250
+  offset: 93, 92
+  index: -1
+PNG/gemSpin_09
+  rotate: true
+  xy: 1147, 21
+  size: 64, 54
+  orig: 250, 250
+  offset: 93, 93
+  index: -1
+PNG/gemSpin_10
+  rotate: true
+  xy: 1203, 21
+  size: 64, 48
+  orig: 250, 250
+  offset: 93, 94
+  index: -1
+PNG/gemSpin_11
+  rotate: false
+  xy: 1162, 148
+  size: 69, 56
+  orig: 250, 250
+  offset: 93, 94
+  index: -1
+PNG/gemSpin_12
+  rotate: false
+  xy: 1087, 196
+  size: 73, 77
+  orig: 250, 250
+  offset: 90, 91
+  index: -1
+PNG/gemSpin_13
+  rotate: false
+  xy: 1162, 206
+  size: 79, 69
+  orig: 250, 250
+  offset: 84, 97
+  index: -1
+PNG/gemSpin_14
+  rotate: false
+  xy: 1011, 276
+  size: 70, 62
+  orig: 250, 250
+  offset: 89, 98
+  index: -1
+PNG/gemSpin_15
+  rotate: true
+  xy: 1090, 2
+  size: 62, 55
+  orig: 250, 250
+  offset: 94, 95
+  index: -1
+PNG/gemSpin_16
+  rotate: false
+  xy: 1004, 191
+  size: 81, 82
+  orig: 250, 250
+  offset: 85, 83
+  index: -1
+PNG/gemSpin_17
+  rotate: false
+  xy: 807, 159
+  size: 102, 114
+  orig: 250, 250
+  offset: 76, 63
+  index: -1
+PNG/gemSpin_18
+  rotate: false
+  xy: 724, 11
+  size: 123, 144
+  orig: 250, 250
+  offset: 68, 45
+  index: -1
+PNG/gemSpin_19
+  rotate: true
+  xy: 199, 12
+  size: 143, 181
+  orig: 250, 250
+  offset: 59, 29
+  index: -1
+PNG/gemSpin_20
+  rotate: true
+  xy: 1023, 340
+  size: 164, 216
+  orig: 250, 250
+  offset: 50, 14
+  index: -1
+PNG/gemSpin_21
+  rotate: true
+  xy: 807, 803
+  size: 183, 248
+  orig: 250, 250
+  offset: 42, 1
+  index: -1
+PNG/gemSpin_22
+  rotate: false
+  xy: 1057, 740
+  size: 183, 246
+  orig: 250, 250
+  offset: 42, 4
+  index: -1
+PNG/gemSpin_23
+  rotate: true
+  xy: 807, 619
+  size: 182, 242
+  orig: 250, 250
+  offset: 41, 8
+  index: -1
+PNG/gemSpin_24
+  rotate: false
+  xy: 1051, 506
+  size: 180, 232
+  orig: 250, 250
+  offset: 41, 14
+  index: -1
+PNG/gemSpin_25
+  rotate: true
+  xy: 807, 444
+  size: 173, 214
+  orig: 250, 250
+  offset: 43, 24
+  index: -1
+PNG/gemSpin_26
+  rotate: true
+  xy: 807, 275
+  size: 167, 202
+  orig: 250, 250
+  offset: 45, 30
+  index: -1
+PNG/gemSpin_27
+  rotate: true
+  xy: 559, 20
+  size: 135, 163
+  orig: 250, 250
+  offset: 58, 46
+  index: -1
+PNG/gemSpin_28
+  rotate: false
+  xy: 968, 45
+  size: 120, 128
+  orig: 250, 250
+  offset: 63, 84
+  index: -1
+PNG/landscape_timeOutMessageBackground
+  rotate: false
+  xy: 2, 988
+  size: 1234, 556
+  orig: 1235, 557
+  offset: 1, 1
+  index: -1
+PNG/portrait_timeOutMessageBackground
+  rotate: false
+  xy: 2, 157
+  size: 803, 829
+  orig: 803, 829
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+Spin_button_Glow.png
+size: 196,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/spinButtonEnabledGlow
+  rotate: false
+  xy: 2, 2
+  size: 192, 192
+  orig: 194, 194
+  offset: 1, 1
+  index: -1

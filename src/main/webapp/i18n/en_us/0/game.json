@@ -1,0 +1,112 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "is {@minRTP}%",
+        "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+        "subheading": "Ticket Cost: {ticketCost}",
+        "prizeLevel": "Prize Level",
+        "description": "Description",
+        "prizeValue": "Prize Value",
+        "descriptionText1": "Match Platinum Bar Win",
+        "descriptionText2": "Bonus Win",
+        "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+        "prizeDivision": "Prize Division",
+        "prizeRemaining": "Approximate Prizes Remaining",
+        "oddsPerPlay": "Odds Per Play"
+    },
+    "title": "TEMPLATE",
+    "MenuCommand":
+    {
+        "price": "Price",
+        "stake": "Stake",
+        "howToPlay": "Help",
+        "paytable": "Paytable",
+        "close": "Close",
+        "audio":
+        {
+            "sound": "Sound",
+            "on": "On",
+            "off": "Off"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Error: ",
+        "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+    },
+    "Game":
+    {
+        "footer_balance": "BALANCE",
+        "footer_ticketCost": "TICKET COST",
+        "ticketSelect_ticketCost": "TICKET COST",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "TRYTRYTRY0 "
+        },
+        "footer_win":
+        {
+            "BUY": "WIN",
+            "TRY": "DEMO WIN"
+        },
+
+        "button_buy":
+        {
+            "BUY": "BUY",
+            "TRY": "TRYTRYTRY0"
+        },
+        "button_try": "TRYTRYTRY0",
+        "button_retry": "RETRYRETRYRETRY0",
+        "button_continue": "CONTINUE",
+        "button_moveToMoney": "MOVE TO MONEY",
+        "button_autoPlay": "REVEAL ALL",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "PLAY AGAIN",
+            "TRY": "TRY AGAIN"
+        },
+        "button_tryAgain": "TRY AGAIN",
+        "button_ok": "OK",
+        "button_exit": "EXIT",
+
+        "error_button_exit": "EXIT",
+        "error_title": "ERROR",
+
+        "message_nonWin": "BETTER LUCK\nNEXT TIMEBETTER LUCK\nNEXT TIMEBETTER LUCK\nNEXT TIME0",
+        "message_win":
+        {
+            "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+            "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WONTHANKS FOR PLAYING!\nYOU COULD HAVE WONTHANKS FOR PLAYING!\nYOU COULD HAVE WON0"
+        },
+
+        "howToPlay": "HOW TO PLAY",
+        "page1_line1": "[7]Reveal a Platinum Bar to win a prize.Reveal a Platinum Bar to win a prize.Reveal a Platinum Bar to win a prize.0",
+        "page1_line2": "[77]Reveal double Platinum Bars to double the prize.Reveal double Platinum Bars to double the prize.Reveal double Platinum Bars to double the prize.0",
+        "page1_line3": "[777]Reveal triple Platinum Bars to triple the prize.Reveal triple Platinum Bars to triple the prize.Reveal triple Platinum Bars to triple the prize.0",
+        "page1_line4": "[RUBY]Reveal 3 or more Platinum Rings to unlock the bonus game.Reveal 3 or more Platinum Rings to unlock the bonus game.Reveal 3 or more Platinum Rings to unlock the bonus game.0",
+
+        "page2_line1": "[WHEEL]Spin the wheel to begin the bonus game.Spin the wheel to begin the bonus game.Spin the wheel to begin the bonus game.0",
+        "page2_line2": "[WHEELPRIZE]Win a prize when the pointer lands on a prize value.Win a prize when the pointer lands on a prize value.Win a prize when the pointer lands on a prize value.0",
+        "page2_line3": "[WHEELARROW]Advance to the next wheel when the pointer lands on an Arrow symbol.Advance to the next wheel when the pointer lands on an Arrow symbol.Advance to the next wheel when the pointer lands on an Arrow symbol.0",
+        "page2_line4": "[WHEELX]Land on a an X symbol and a Platinum Ring is removed. The bonus ends when\nno Platinum Rings remain.Land on a an X symbol and a Platinum Ring is removed. The bonus ends when\nno Platinum Rings remain.Land on a an X symbol and a Platinum Ring is removed. The bonus ends when\nno Platinum Rings remain.0",
+
+        "winUpTo": "WIN UP TOWIN UP TOWIN UP TO0",
+        "bonus": "BONUSBONUSBONUS0",
+        "bonusNoWin": "NO BONUS WIN",
+        "bonusWin": "BONUS WIN",
+        "totalWin": "TOTAL WIN",
+        "infoBarText": "FIND PLATINUM BARS TO WIN!FIND PLATINUM BARS TO WIN!FIND PLATINUM BARS TO WIN!0",
+        "bonusInfo": "3 or more unlocks Bonus3 or more unlocks Bonus3 or more unlocks Bonus0",
+        "bonusInfo2": "Zero Platinum Rings = Bonus EndZero Platinum Rings = Bonus EndZero Platinum Rings = Bonus End0",
+
+        "bonusSpinButton": "bonusSpinButton",
+        "respin": "Respin",
+
+        "yourNumbers": "YOUR NUMBERS",
+        "luckyNumbers": "LUCKY NUMBERS"
+    }
+}

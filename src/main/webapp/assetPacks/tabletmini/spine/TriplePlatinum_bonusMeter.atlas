@@ -1,0 +1,278 @@
+
+TriplePlatinum_bonusMeter.jpg
+size: 2034,1753
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/blurBAll
+  rotate: false
+  xy: 2, 1373
+  size: 378, 378
+  orig: 500, 500
+  offset: 61, 61
+  index: -1
+JPG/particles_00
+  rotate: true
+  xy: 488, 607
+  size: 445, 242
+  orig: 1000, 500
+  offset: 282, 133
+  index: -1
+JPG/particles_01
+  rotate: true
+  xy: 2, 457
+  size: 456, 243
+  orig: 1000, 500
+  offset: 270, 133
+  index: -1
+JPG/particles_02
+  rotate: true
+  xy: 2, 915
+  size: 456, 244
+  orig: 1000, 500
+  offset: 270, 133
+  index: -1
+JPG/particles_03
+  rotate: true
+  xy: 248, 917
+  size: 454, 237
+  orig: 1000, 500
+  offset: 269, 139
+  index: -1
+JPG/particles_04
+  rotate: true
+  xy: 487, 1054
+  size: 451, 246
+  orig: 1000, 500
+  offset: 274, 132
+  index: -1
+JPG/particles_05
+  rotate: true
+  xy: 2, 2
+  size: 453, 246
+  orig: 1000, 500
+  offset: 272, 133
+  index: -1
+JPG/particles_06
+  rotate: true
+  xy: 735, 1052
+  size: 453, 239
+  orig: 1000, 500
+  offset: 272, 140
+  index: -1
+JPG/particles_07
+  rotate: true
+  xy: 976, 1054
+  size: 452, 245
+  orig: 1000, 500
+  offset: 273, 134
+  index: -1
+JPG/particles_08
+  rotate: false
+  xy: 1130, 770
+  size: 440, 246
+  orig: 1000, 500
+  offset: 272, 133
+  index: -1
+JPG/particles_09
+  rotate: true
+  xy: 732, 605
+  size: 445, 242
+  orig: 1000, 500
+  offset: 282, 133
+  index: -1
+JPG/particles_10
+  rotate: false
+  xy: 840, 1508
+  size: 456, 243
+  orig: 1000, 500
+  offset: 270, 133
+  index: -1
+JPG/particles_11
+  rotate: false
+  xy: 382, 1507
+  size: 456, 244
+  orig: 1000, 500
+  offset: 270, 133
+  index: -1
+JPG/particles_12
+  rotate: false
+  xy: 1223, 1018
+  size: 454, 237
+  orig: 1000, 500
+  offset: 269, 139
+  index: -1
+JPG/particles_13
+  rotate: false
+  xy: 1223, 1257
+  size: 451, 246
+  orig: 1000, 500
+  offset: 274, 132
+  index: -1
+JPG/particles_14
+  rotate: false
+  xy: 1298, 1505
+  size: 453, 246
+  orig: 1000, 500
+  offset: 272, 133
+  index: -1
+JPG/particles_15
+  rotate: true
+  xy: 247, 460
+  size: 453, 239
+  orig: 1000, 500
+  offset: 272, 140
+  index: -1
+JPG/particles_16
+  rotate: true
+  xy: 250, 6
+  size: 452, 245
+  orig: 1000, 500
+  offset: 273, 134
+  index: -1
+JPG/particles_17
+  rotate: false
+  xy: 1130, 522
+  size: 440, 246
+  orig: 1000, 500
+  offset: 272, 133
+  index: -1
+JPG/ringHighlight_04
+  rotate: true
+  xy: 976, 620
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringHighlight_07
+  rotate: true
+  xy: 1572, 584
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringHighlight_17
+  rotate: false
+  xy: 1753, 1514
+  size: 259, 237
+  orig: 1000, 500
+  offset: 368, 126
+  index: -1
+JPG/ringhighlight_00
+  rotate: true
+  xy: 497, 173
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_01
+  rotate: true
+  xy: 651, 171
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_02
+  rotate: true
+  xy: 805, 171
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_03
+  rotate: true
+  xy: 959, 171
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_05
+  rotate: false
+  xy: 1113, 368
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_06
+  rotate: false
+  xy: 1113, 214
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_08
+  rotate: false
+  xy: 1113, 60
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_09
+  rotate: true
+  xy: 1547, 88
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_10
+  rotate: false
+  xy: 497, 17
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_11
+  rotate: true
+  xy: 1701, 150
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_12
+  rotate: true
+  xy: 1679, 1071
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_13
+  rotate: true
+  xy: 1833, 1080
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_14
+  rotate: true
+  xy: 1726, 637
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_15
+  rotate: true
+  xy: 1880, 646
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+JPG/ringhighlight_16
+  rotate: true
+  xy: 1855, 203
+  size: 432, 152
+  orig: 432, 152
+  offset: 0, 0
+  index: -1
+
+TriplePlatinum_bonusMeter.png
+size: 452,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/bonus_base_bg_silver
+  rotate: false
+  xy: 2, 2
+  size: 448, 174
+  orig: 450, 175
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,173 @@
+
+triplePlatinum_bonusSymbols.jpg
+size: 2000,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/blurBAll
+  rotate: false
+  xy: 1376, 42
+  size: 302, 302
+  orig: 400, 400
+  offset: 49, 49
+  index: -1
+JPG/lightPing
+  rotate: false
+  xy: 1933, 669
+  size: 65, 65
+  orig: 75, 75
+  offset: 5, 6
+  index: -1
+JPG/particles_00
+  rotate: false
+  xy: 1376, 541
+  size: 357, 193
+  orig: 800, 400
+  offset: 225, 107
+  index: -1
+JPG/particles_01
+  rotate: true
+  xy: 2, 369
+  size: 365, 194
+  orig: 800, 400
+  offset: 216, 106
+  index: -1
+JPG/particles_02
+  rotate: true
+  xy: 198, 370
+  size: 364, 195
+  orig: 800, 400
+  offset: 216, 106
+  index: -1
+JPG/particles_03
+  rotate: true
+  xy: 395, 371
+  size: 363, 190
+  orig: 800, 400
+  offset: 215, 111
+  index: -1
+JPG/particles_04
+  rotate: true
+  xy: 1177, 373
+  size: 361, 197
+  orig: 800, 400
+  offset: 219, 106
+  index: -1
+JPG/particles_05
+  rotate: true
+  xy: 587, 372
+  size: 362, 197
+  orig: 800, 400
+  offset: 218, 106
+  index: -1
+JPG/particles_06
+  rotate: true
+  xy: 984, 372
+  size: 362, 191
+  orig: 800, 400
+  offset: 218, 112
+  index: -1
+JPG/particles_07
+  rotate: true
+  xy: 786, 372
+  size: 362, 196
+  orig: 800, 400
+  offset: 218, 107
+  index: -1
+JPG/particles_08
+  rotate: true
+  xy: 1735, 381
+  size: 353, 196
+  orig: 800, 400
+  offset: 217, 107
+  index: -1
+JPG/particles_09
+  rotate: false
+  xy: 1376, 346
+  size: 357, 193
+  orig: 800, 400
+  offset: 225, 107
+  index: -1
+JPG/particles_10
+  rotate: true
+  xy: 2, 2
+  size: 365, 194
+  orig: 800, 400
+  offset: 216, 106
+  index: -1
+JPG/particles_11
+  rotate: true
+  xy: 198, 4
+  size: 364, 195
+  orig: 800, 400
+  offset: 216, 106
+  index: -1
+JPG/particles_12
+  rotate: true
+  xy: 395, 6
+  size: 363, 190
+  orig: 800, 400
+  offset: 215, 111
+  index: -1
+JPG/particles_13
+  rotate: true
+  xy: 1177, 10
+  size: 361, 197
+  orig: 800, 400
+  offset: 219, 106
+  index: -1
+JPG/particles_14
+  rotate: true
+  xy: 587, 8
+  size: 362, 197
+  orig: 800, 400
+  offset: 218, 106
+  index: -1
+JPG/particles_15
+  rotate: true
+  xy: 984, 8
+  size: 362, 191
+  orig: 800, 400
+  offset: 218, 112
+  index: -1
+JPG/particles_16
+  rotate: true
+  xy: 786, 8
+  size: 362, 196
+  orig: 800, 400
+  offset: 218, 107
+  index: -1
+JPG/particles_17
+  rotate: true
+  xy: 1735, 26
+  size: 353, 196
+  orig: 800, 400
+  offset: 217, 107
+  index: -1
+
+triplePlatinum_bonusSymbols.png
+size: 485,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/bonusRef
+  rotate: true
+  xy: 2, 2
+  size: 184, 186
+  orig: 197, 200
+  offset: 7, 7
+  index: -1
+PNG/bonusSym
+  rotate: false
+  xy: 378, 78
+  size: 105, 108
+  orig: 109, 111
+  offset: 2, 1
+  index: -1
+PNG/bonusSym-larger
+  rotate: true
+  xy: 190, 2
+  size: 184, 186
+  orig: 197, 200
+  offset: 7, 7
+  index: -1

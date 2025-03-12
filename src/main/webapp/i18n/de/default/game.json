@@ -1,0 +1,98 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% bis {@maxRTP}%",
+    "paybackTitle": "Erwartete Rückzahlung",
+    "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+    "subheading": "Ticketpreis: {ticketCost}",
+    "prizeLevel": "Preis-Stufe",
+    "description": "Beschreibung",
+    "prizeValue": "Preis-Wert",
+    "descriptionText1": "Platin-Barren-Übereinstimmungs-Gewinn",
+    "descriptionText2": "Bonusgewinn"
+  },
+  "title": "VORLAGE",
+  "MenuCommand": {
+    "price": "Preis",
+    "stake": "Einsatz",
+    "howToPlay": "Hilfe",
+    "paytable": "Gewinntabelle",
+    "close": "Schliessen",
+    "audio": {
+      "sound": "Sound",
+      "on": "Ein",
+      "off": "Aus"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fehler: ",
+    "genericErrorText": "Es ist ein interner Fehler aufgetreten. Spiel VERLASSEN und neu starten."
+  },
+  "Game": {
+    "footer_balance": "GUTHABEN",
+    "footer_ticketCost": "TICKETPREIS",
+    "ticketSelect_ticketCost": "TICKETPREIS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "VERSUCHEN "
+    },
+    "footer_win": {
+      "BUY": "GEWINN",
+      "TRY": "DEMO-GEWINN"
+    },
+
+    "button_buy": {
+      "BUY": "KAUFEN",
+      "TRY": "VERSUCHEN"
+    },
+    "button_try": "VERSUCHEN",
+    "button_retry": "ERNEUT VERSUCHEN",
+    "button_continue": "FORTFAHREN",
+    "button_moveToMoney": "UM GELD SPIELEN",
+    "button_autoPlay": "ALLE AUFDECKEN",
+    "button_stop": "STOPP",
+    "button_playAgain": {
+      "BUY": "ERNEUT SPIELEN",
+      "TRY": "ERNEUT VERSUCHEN"
+    },
+    "button_tryAgain": "ERNEUT VERSUCHEN",
+    "button_ok": "OKAY",
+    "button_exit": "BEENDEN",
+
+    "error_button_exit": "BEENDEN",
+    "error_title": "FEHLER",
+
+    "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+    "message_win": {
+      "BUY": "GLÜCKWUNSCH!\nSIE GEWINNEN",
+      "TRY": "DANKE FÜRS SPIELEN!\nSIE HÄTTEN GEWINNEN KÖNNEN"
+    },
+
+    "howToPlay": "SPIELANLEITUNG",
+    "page1_line1": "[7]Decken Sie einen Platin-Barren auf, um den entsprechenden Preis zu gewinnen.",
+    "page1_line2": "[77]Decken Sie Doppel-Platin-Barren auf, um den entsprechenden Preis zu verdoppeln.",
+    "page1_line3": "[777]Decken Sie Dreifach-Platin-Barren auf, um den entsprechenden Preis zu verdreifachen.",
+    "page1_line4": "[RUBY]Decken Sie 3 oder mehr Platin-Ringe auf, um das Bonusspiel freizuschalten.",
+
+    "page2_line1": "[WHEEL]Drehen Sie das Rad, um das Bonusspiel zu starten.",
+    "page2_line2": "[WHEELPRIZE]Gewinnen Sie einen Preis, wenn der Zeiger auf einem Preis-Wert landet.",
+    "page2_line3": "[WHEELARROW]Steigen Sie zum nächsten Rad auf, wenn der Zeiger auf einem Pfeilsymbol landet.",
+    "page2_line4": "[WHEELX]Landen Sie auf einem X-Symbol und ein Platin-Ring wird entfernt.\nDer Bonus endet, wenn keine Platin-Ringe mehr übrig sind.",
+
+    "winUpTo": "GEWINNEN SIE BIS ZU",
+    "bonus": "BONUS",
+    "bonusNoWin": "KEIN BONUSGEWINN",
+    "bonusWin": "BONUSGEWINN",
+    "totalWin": "GESAMTGEWINN",
+    "infoBarText": "FINDEN SIE PLATIN-BARREN, UM ZU GEWINNEN!",
+    "bonusInfo": "3 oder mehr schalten den Bonus frei",
+    "bonusInfo2": "Keine Platin-Ringe = Bonusende",
+
+    "bonusSpinButton": "Bonusdreh-Button",
+    "respin": "Neudreh",
+
+    "yourNumbers": "IHRE ZAHLEN",
+    "luckyNumbers": "GLÜCKSZAHLEN"
+  }
+}

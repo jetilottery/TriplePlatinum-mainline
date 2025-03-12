@@ -1,0 +1,41 @@
+
+ambientAnim.jpg
+size: 1828,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPG/TriplePlatinum_Landscape_v11
+  rotate: true
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+JPG/TriplePlatinum_Portrait_v10
+  rotate: false
+  xy: 814, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+JPG/gradientLight
+  rotate: false
+  xy: 1626, 1242
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPG/sparkle_white
+  rotate: true
+  xy: 1626, 950
+  size: 88, 89
+  orig: 90, 90
+  offset: 1, 1
+  index: -1
+JPG/spotLight
+  rotate: false
+  xy: 1626, 1040
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

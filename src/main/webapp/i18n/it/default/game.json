@@ -1,0 +1,98 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "Dal {@minRTP}% al {@maxRTP}%",
+    "paybackTitle": "Ritorno previsto",
+    "paybackBody": "Per questo gioco, il ritorno teorico previsto sul lungo termine è pari a {RTP}.",
+    "subheading": "Prezzo del Biglietto: {ticketCost}",
+    "prizeLevel": "Livello del Premio",
+    "description": "Descrizione",
+    "prizeValue": "Valore del Premio",
+    "descriptionText1": "Vincita abbinamento della Barra di Platino",
+    "descriptionText2": "Vincita Bonus"
+  },
+  "title": "MODELLO",
+  "MenuCommand": {
+    "price": "Prezzo",
+    "stake": "Puntata",
+    "howToPlay": "Aiuto",
+    "paytable": "Tabella dei pagamenti",
+    "close": "Chiudi",
+    "audio": {
+      "sound": "Audio",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Errore: ",
+    "genericErrorText": "Si è verificato un errore interno. ESCI e riavvia il gioco."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PREZZO DEL BIGLIETTO",
+    "ticketSelect_ticketCost": "PREZZO DEL BIGLIETTO",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROVA "
+    },
+    "footer_win": {
+      "BUY": "VINCITA",
+      "TRY": "VINCITA DEMO"
+    },
+
+    "button_buy": {
+      "BUY": "ACQUISTA",
+      "TRY": "PROVA"
+    },
+    "button_try": "PROVA",
+    "button_retry": "RIPROVA",
+    "button_continue": "CONTINUA",
+    "button_moveToMoney": "GIOCA CON DENARO REALE",
+    "button_autoPlay": "MOSTRA TUTTI",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "GIOCA ANCORA",
+      "TRY": "RIPROVA"
+    },
+    "button_tryAgain": "RIPROVA",
+    "button_ok": "OK",
+    "button_exit": "ESCI",
+
+    "error_button_exit": "ESCI",
+    "error_title": "ERRORE",
+
+    "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+    "message_win": {
+      "BUY": "CONGRATULAZIONI!\nHAI VINTO",
+      "TRY": "GRAZIE PER AVER GIOCATO!\nAVRESTI POTUTO VINCERE"
+    },
+
+    "howToPlay": "COME SI GIOCA",
+    "page1_line1": "[7]Rivela una Barra di Platino per vincere il premio corrispondente.",
+    "page1_line2": "[77]Rivela i simboli Doppia Barra di Platino per raddoppiare il premio corrispondente.",
+    "page1_line3": "[777]Rivela i simboli Tripla Barra di Platino per triplicare il premio corrispondente.",
+    "page1_line4": "[RUBY]Rivela 3 o più Anelli di Platino per sbloccare il gioco bonus.",
+
+    "page2_line1": "[WHEEL]Gira la ruota per avviare il gioco bonus.",
+    "page2_line2": "[WHEELPRIZE]Vinci un premio quando l'indicatore si ferma su un valore del premio.",
+    "page2_line3": "[WHEELARROW]Avanza alla ruota successiva quando il puntatore si ferma su un simbolo Freccia.",
+    "page2_line4": "[WHEELX]La ruota si ferma su un simbolo X e un Anello di Platino viene rimosso.\nIl Bonus termina quando non rimangono più Anelli di Platino.",
+
+    "winUpTo": "VINCI FINO A",
+    "bonus": "BONUS",
+    "bonusNoWin": "NESSUNA VINCITA BONUS",
+    "bonusWin": "VINCITA BONUS",
+    "totalWin": "VINCITA TOTALE",
+    "infoBarText": "TROVA LE BARRE DI PLATINO PER VINCERE!",
+    "bonusInfo": "3 o più sbloccano il Bonus",
+    "bonusInfo2": "Zero Anelli di Platino = Termine del Bonus",
+
+    "bonusSpinButton": "PulsanteGiraBonus",
+    "respin": "Respin",
+
+    "yourNumbers": "I TUOI NUMERI",
+    "luckyNumbers": "NUMERI FORTUNATI"
+  }
+}

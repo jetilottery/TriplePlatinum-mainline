@@ -1,0 +1,112 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "is {@minRTP}%",
+        "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+        "subheading": "Ticket Cost: {ticketCost}",
+        "prizeLevel": "Prize Level",
+        "description": "Description",
+        "prizeValue": "Prize Value",
+        "descriptionText1": "Match Platinum Bar Win",
+        "descriptionText2": "Bonus Win",
+        "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+        "prizeDivision": "Prize Division",
+        "prizeRemaining": "Approximate Prizes Remaining",
+        "oddsPerPlay": "Odds Per Play"
+    },
+    "title": "TEMPLATE",
+    "MenuCommand":
+    {
+        "price": "Price",
+        "stake": "Stake",
+        "howToPlay": "Help",
+        "paytable": "Paytable",
+        "close": "Close",
+        "audio":
+        {
+            "sound": "Sound",
+            "on": "On",
+            "off": "Off"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Error: ",
+        "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+    },
+    "Game":
+    {
+        "footer_balance": "BALANCE",
+        "footer_ticketCost": "TICKET COST",
+        "ticketSelect_ticketCost": "TICKET COST",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "TRY "
+        },
+        "footer_win":
+        {
+            "BUY": "WIN",
+            "TRY": "DEMO WIN"
+        },
+
+        "button_buy":
+        {
+            "BUY": "BUY",
+            "TRY": "TRY"
+        },
+        "button_try": "TRY",
+        "button_retry": "RETRY",
+        "button_continue": "CONTINUE",
+        "button_moveToMoney": "MOVE TO MONEY",
+        "button_autoPlay": "REVEAL ALL",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "PLAY AGAIN",
+            "TRY": "TRY AGAIN"
+        },
+        "button_tryAgain": "TRY AGAIN",
+        "button_ok": "OK",
+        "button_exit": "EXIT",
+
+        "error_button_exit": "EXIT",
+        "error_title": "ERROR",
+
+        "message_nonWin": "BETTER LUCK\nNEXT TIME",
+        "message_win":
+        {
+            "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+            "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+        },
+
+        "howToPlay": "HOW TO PLAY",
+        "page1_line1": "[7]Reveal a Platinum Bar to win the corresponding prize.",
+        "page1_line2": "[77]Reveal double Platinum Bars to double the corresponding prize.",
+        "page1_line3": "[777]Reveal triple Platinum Bars to triple the corresponding prize.",
+        "page1_line4": "[RUBY]Reveal 3 or more Platinum Rings to unlock the bonus game.",
+
+        "page2_line1": "[WHEEL]Spin the wheel to begin the bonus game.",
+        "page2_line2": "[WHEELPRIZE]Win a prize when the pointer lands on a prize value.",
+        "page2_line3": "[WHEELARROW]Advance to the next wheel when the pointer lands on an Arrow symbol.",
+        "page2_line4": "[WHEELX]Land on an X symbol and a Platinum Ring is removed.\nThe bonus ends when no Platinum Rings remain.",
+
+        "winUpTo": "WIN UP TO",
+        "bonus": "BONUS",
+        "bonusNoWin": "NO BONUS WIN",
+        "bonusWin": "BONUS WIN",
+        "totalWin": "TOTAL WIN",
+        "infoBarText": "FIND PLATINUM BARS TO WIN!",
+        "bonusInfo": "3 or more unlocks Bonus",
+        "bonusInfo2": "Zero Platinum Rings = Bonus End",
+
+        "bonusSpinButton": "bonusSpinButton",
+        "respin": "Respin",
+
+        "yourNumbers": "YOUR NUMBERS",
+        "luckyNumbers": "LUCKY NUMBERS"
+    }
+}

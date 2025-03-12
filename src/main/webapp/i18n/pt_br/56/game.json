@@ -1,0 +1,99 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% a {@maxRTP}%",
+    "paybackTitle": "Retorno esperado",
+    "paybackBody": "Para este jogo, o retorno esperado teórico de longo prazo é {RTP}.",
+    "subheading": "Custo do Bilhete: {ticketCost}",
+    "prizeLevel": "Nível do Prêmio",
+    "description": "Descrição",
+    "prizeValue": "Valor do Prêmio",
+    "descriptionText1": "Prêmio de Acerto de Número",
+    "descriptionText2": "Prêmio do Bônus"
+  },
+  "title": "MODELO",
+  "MenuCommand": {
+    "price": "Preço",
+    "stake": "Aposta",
+    "howToPlay": "Ajuda",
+    "paytable": "Tabela de Pagamento",
+    "close": "Fechar",
+    "audio": {
+      "sound": "Som",
+      "on": "Ativado",
+      "off": "Desativado"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erro: ",
+    "genericErrorText": "Ocorreu um erro interno. SAIA do jogo e reinicie novamente."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "CUSTO DO BILHETE",
+    "ticketSelect_ticketCost": "CUSTO DO BILHETE",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TENTAR "
+    },
+    "footer_win": {
+      "BUY": "PRÊMIO",
+      "TRY": "PRÊMIO DE DEMONSTRAÇÃO"
+    },
+
+    "button_buy": {
+      "BUY": "COMPRAR",
+      "TRY": "TENTAR"
+    },
+    "button_try": "TENTAR",
+    "button_retry": "RETRY",
+    "button_continue": "CONTINUAR",
+    "button_moveToMoney": "PASSAR PARA DINHEIRO",
+    "button_autoPlay": "REVELAR TUDO",
+    "button_stop": "PARAR",
+    "button_playAgain": {
+      "BUY": "JOGAR NOVAMENTE",
+      "TRY": "TENTAR NOVAMENTE"
+    },
+    "button_tryAgain": "TENTAR NOVAMENTE",
+    "button_ok": "OK",
+    "button_exit": "SAIR",
+
+    "error_button_exit": "SAIR",
+    "error_title": "ERRO",
+
+    "message_nonWin": "MAIS SORTE\nNA PRÓXIMA VEZ",
+    "message_win": {
+      "BUY": "PARABÉNS!\nVOCÊ GANHOU",
+      "TRY": "OBRIGADO POR JOGAR!\nVOCÊ PODERIA TER GANHO"
+    },
+
+    "howToPlay": "COMO JOGAR",
+    "page1_line1": "[7]Ao revelar um único símbolo 7 você ganha um prêmio.",
+    "page1_line2": "[77]Ao revelar um símbolo 7 duplo o prêmio dobra.",
+    "page1_line3": "[777]Ao revelar um símbolo 7 triplo o prêmio triplica.",
+    "page1_line4": "[RUBY]Ao revelar 3 ou mais símbolos bônus do rubi o jogo bônus é iniciado.",
+
+    "page2_line1": "[WHEEL]Gire a roda para iniciar o jogo bônus.",
+    "page2_line2": "[WHEELPRIZE]Ganhe um prêmio quando o ponteiro cair em um valor do prêmio.",
+    "page2_line3": "[WHEELARROW]Avance para a próxima roda quando o ponteiro cair em um símbolo de flecha.",
+    "page2_line4": "[WHEELRESPIN]Ganhe um giro adicional quando o ponteiro cair no símbolo de giro extra.",
+    "page2_line5": "[WHEELX]Ao obter um X vermelho o rubi bônus é removido. \nO bônus é encerrado quando não houver mais rubis bônus.",
+
+    "winUpTo": "GANHE ATÉ",
+    "bonus": "BÔNUS",
+    "bonusNoWin": "SEM PRÊMIO DE BÔNUS",
+    "bonusWin": "PRÊMIO DO BÔNUS",
+    "totalWin": "PRÊMIO TOTAL",
+    "infoBarText": "ENCONTRE RUBI [7sLOGO] PARA GANHAR!",
+    "bonusInfo": "3 ou mais desbloqueia o bônus",
+    "bonusInfo2": "Zero rubis = Fim do bônus",
+
+    "bonusSpinButton": "bonusSpinButton ",
+    "respin": "Giro extra",
+
+    "yourNumbers": "SEUS NÚMEROS",
+    "luckyNumbers": "NÚMEROS DA SORTE"
+  }
+}
